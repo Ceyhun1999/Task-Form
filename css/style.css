@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    margin: 100px auto;
+}
+input {
+    margin-bottom: 20px;
+    height: 30px;
+    border-radius: 10px;
+    padding-right: 10px;
+    font-size: 1.5em;
+}
