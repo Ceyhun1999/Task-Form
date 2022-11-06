@@ -1,11 +1,13 @@
 .container {
     display: flex;
     flex-direction: column;
-    width: 300px;
+    width: 350px;
     margin: 100px auto;
 }
 input {
+    text-align: center;
     margin-bottom: 20px;
+    width: 100%;
     height: 30px;
     border-radius: 10px;
     padding-right: 10px;
